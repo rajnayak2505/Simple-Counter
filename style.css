@@ -1,0 +1,24 @@
+*{margin: 0; padding: 0;}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #eeeeee;
+    font-family: sans-serif;
+}
+
+.btn{
+    padding: 10px 15px;
+    font-size: 20px;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+#value{
+    color: #000;
+    font-size: 70px;
+    font-weight: 700;
+}
